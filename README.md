@@ -13,7 +13,11 @@
     put it in the same folder as the (compiled.py) program file
 2. Run the command to generate the current (MFW Labs), (TR Labs),
     (Instructor), and (List View) sheets in the file (output.xlsx):
-        > python3 compiled.py
+
+```bash
+python3 compiled.py
+```
+
 3. Because it's a (.xlsx) file, you must use Microsoft Excel to open and modify it.
 4. After any modifications have been made on (output.xlsx) in the (List View)
     sheet, make sure the file is located in the same folder as the (remake.py)
