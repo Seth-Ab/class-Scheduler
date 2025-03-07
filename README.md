@@ -24,7 +24,11 @@ python3 compiled.py
     program file.
 5. Run the following command to remake the (output.xlsx) file with the 
     desired modifications into the file (finalOutput.xlsx):
-        > python3 remake.py
+
+```bash
+python3 remake.py
+```
+
 6. Open (finalOutput.xlsx) and go to the (List View) sheet. At the bottom of
     the sheet, you can find 2 lists:
     1. The first list, (Place Conflicts), contains any class where the
