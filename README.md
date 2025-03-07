@@ -1,7 +1,7 @@
 # NOTE:
 1. The merge_row_cells() function may not function completely function for the
     'Instructors' Sheet, specifically the 'Staff' column. This is due to the fact
-    that 'Staff' might overlap times as no proffesor is specified.
+    that 'Staff' might overlap times as no professor is specified.
 2. The main difference between compiled.py and remake.py is the
     conflict identification. This can be seen at the bottom of the
     'List View' sheet in finalOutput.xlsx
@@ -14,7 +14,7 @@
 2. Run the command to generate the current (MFW Labs), (TR Labs),
     (Instructor), and (List View) sheets in the file (output.xlsx):
         > python3 compiled.py
-3. Because its a (.xlsx) file, you must use Microsoft Excel to open and modify.
+3. Because it's a (.xlsx) file, you must use Microsoft Excel to open and modify it.
 4. After any modifications have been made on (output.xlsx) in the (List View)
     sheet, make sure the file is located in the same folder as the (remake.py)
     program file.
@@ -37,6 +37,9 @@
     during the function call
 3. Program Combination: There are currently 2 programs, (compiled.py) and 
     (remake.py). There should be a method to combine these programs into 
-    one functioning program so you don't need to call 2 seperate program.
+    one functioning program so you don't need to call 2 separate programs.
 4. Function Organization: Currently, there are many functions in different
     locations. There should be fewer, or more clearly defined, imported files.
+
+
+
